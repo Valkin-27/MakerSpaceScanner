@@ -1,0 +1,3 @@
+/home/marco/Documents/School/Maker Space/MakerSpaceScanner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marco/Documents/School/Maker Space/MakerSpaceScanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marco/Documents/School/Maker Space/MakerSpaceScanner/cmake-build-debug/CMakeFiles/MakerSpaceScanner.dir
